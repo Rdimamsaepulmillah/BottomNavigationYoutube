@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_round_remove_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_round_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bottomnavigationdemo.app-merged_res-29:/drawable_libyt.jpg.flat",
+        "source": "com.example.bottomnavigationdemo.app-main-31:/drawable/libyt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_fragment_shorts.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\fragment_shorts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_subsyutub.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\subsyutub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_dialogbg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\dialogbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_shortyt.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\shortyt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_tesshort.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\tesshort.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_libraryyutub.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\libraryyutub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_fragment_library.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\fragment_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_upload_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_upload_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_homeyutub.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\homeyutub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_video_library_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_video_library_24.xml"
+    },
+    {
+        "merged": "com.example.bottomnavigationdemo.app-merged_res-29:/layout_fragment_library.xml.flat",
+        "source": "com.example.bottomnavigationdemo.app-main-31:/layout/fragment_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_fragment_subscription.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_subsyutubb.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\subsyutubb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_shortt.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\shortt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_whatshot_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_subscriptions_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_subscriptions_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_home.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_baseline_vibration_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_baseline_vibration_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_tesyutub.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\tesyutub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\layout_bottomsheetlayout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\layout\\bottomsheetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-merged_res-29:\\drawable_shortyutub.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.bottomnavigationdemo.app-main-31:\\drawable\\shortyutub.jpg"
+    }
+]
