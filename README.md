@@ -2,6 +2,7 @@ Tugas Pengembangan Aplikasi Mobile (Kelas C)
 Nama Anggota : 
 - Rd Imam Saepul Millah (1217050118)
 - Risyad Addiva (1217050125)
+- Rizka M Imron (1217050126)
 - Wildan Fathu Rijan (1217050141)
 
 Membuat Navigation Bottom Youtube
